@@ -1,37 +1,40 @@
 # Hi, I'm Rey 👋
 
-🎓 Class 10 student
+🎓 Class 10 Student
 
 🐍 Learning Python
 
 💻 Building projects and sharing them on GitHub
 
-## Projects
+## 🚀 Projects
 
 - 🎮 Rock Paper Scissors
 - 🔢 Number Guessing Game
 - 🌍 The Grand Country Quiz
 - 🔐 Password Generator
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Python
 - Git & GitHub
 - Problem Solving
 - Object-Oriented Programming (soon)
 
-## Goals for 2026
+## 🎯 Goals for 2026
 
-- Build 10 Python projects
+- Build 10 Python Projects
 - Learn OOP
-- Learn basic Data Structures
-- Contribute to open source
+- Learn Basic Data Structures
+- Contribute to Open Source
 - Prepare for IIT
 
-## Connect
+## 🌱 Current Focus
 
-GitHub: https://github.com/rey-ctrl3123
+Improving my Python skills by building projects and learning programming fundamentals.
 
+## 🔗 Connect
+
+GitHub: github.com/rey-ctrl3123
 <!--
 **rey-ctrl3123/rey-ctrl3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
